@@ -16,6 +16,7 @@ The objective of this project is to **predict the MPG of a car based on its tech
 ---
 
 ## 📂 Project Structure
+
 Fuel-Efficiency-Prediction/
 │
 ├── data/
@@ -25,7 +26,7 @@ Fuel-Efficiency-Prediction/
 │ └── Predict_Fuel_Efficiency_Using_Tensorflow.ipynb
 │
 ├── Models/
-│ └── trained Keras model/
+│ └── trained_keras_model/
 │ ├── mpg_model.keras
 │ ├── norm.pkl
 │ └── car_lookup.pkl
