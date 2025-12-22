@@ -17,23 +17,25 @@ The objective of this project is to **predict the MPG of a car based on its tech
 
 ## 📂 Project Structure
 
+<pre>
 Fuel-Efficiency-Prediction/
 │
 ├── data/
-│ └── auto-mpg.csv
+│   └── auto-mpg.csv
 │
 ├── notebooks/
-│ └── Predict_Fuel_Efficiency_Using_Tensorflow.ipynb
+│   └── Predict_Fuel_Efficiency_Using_Tensorflow.ipynb
 │
 ├── Models/
-│ └── trained_keras_model/
-│ ├── mpg_model.keras
-│ ├── norm.pkl
-│ └── car_lookup.pkl
+│   └── trained_keras_model/
+│       ├── mpg_model.keras
+│       ├── norm.pkl
+│       └── car_lookup.pkl
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
+</pre>
 
 
 ---
