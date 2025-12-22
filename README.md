@@ -52,7 +52,6 @@ Fuel-Efficiency-Prediction/
   - `acceleration`
   - `model year`
   - `origin`
-  - (Optional / tested) `displacement`, `car name`
 
 ---
 
