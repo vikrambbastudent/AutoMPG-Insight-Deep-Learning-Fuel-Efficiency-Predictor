@@ -128,10 +128,10 @@ git clone https://github.com/your-username/fuel-efficiency-prediction.git
 cd fuel-efficiency-prediction
 
 ### 2️⃣ Install Dependencies
-```bash
+
 pip install -r requirements.txt
 
 ### 3️⃣ Run Streamlit App
-```bash
+
 streamlit run app.py
 
