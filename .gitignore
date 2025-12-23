@@ -1,11 +1,19 @@
 # Virtual environment
 venv/
+.env/
 
 # Python cache
 __pycache__/
 *.pyc
-*.pyo
 
-# OS files
-.DS_Store
-Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
+
+# Large / binary files
+*.dll
+*.pyd
+
+# Model files (optional – keep if small)
+# *.keras
+# *.h5
+# *.pkl
