@@ -127,3 +127,12 @@ Saved the following artifacts for reuse:
 git clone https://github.com/your-username/fuel-efficiency-prediction.git
 cd fuel-efficiency-prediction
 
+### 2️⃣ Run the Streamlit App
+```bash
+streamlit run app.py
+
+### 3️⃣ Install Python Dependencies
+```bash
+pip install -r requirements.txt
+
+
