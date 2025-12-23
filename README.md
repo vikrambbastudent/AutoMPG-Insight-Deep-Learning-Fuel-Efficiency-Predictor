@@ -127,5 +127,3 @@ Saved the following artifacts for reuse:
 git clone https://github.com/your-username/fuel-efficiency-prediction.git
 cd fuel-efficiency-prediction
 
-
->>>>>>> 1a39d9fe35bc6a87fb8dee5cabeac233e2496014
